@@ -1,0 +1,7 @@
+export const Contact = 'CONTACT'
+export const addNewContact = 'ADD_NEW_CONTACT'
+export const removeContact = 'REMOVE_CONTACT'
+export const copyContact = 'COPY_CONTACT'
+export const editContact = 'EDIT_CONTACT'
+export const updateContact = 'UPDATE_CONTACT'
+export const checkBox = 'CHECK_BOX'
